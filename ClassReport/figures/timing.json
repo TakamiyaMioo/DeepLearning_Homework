@@ -1,0 +1,11 @@
+{
+  "device": "cpu",
+  "num_samples": 64,
+  "checkpoint_step": 9380,
+  "steps_1000_seconds": 58.1132,
+  "steps_1000_seconds_per_image": 0.908,
+  "steps_200_seconds": 12.2095,
+  "steps_200_seconds_per_image": 0.1908,
+  "steps_50_seconds": 2.9715,
+  "steps_50_seconds_per_image": 0.0464
+}

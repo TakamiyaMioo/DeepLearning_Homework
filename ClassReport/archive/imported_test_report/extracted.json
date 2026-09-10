@@ -1,0 +1,266 @@
+[
+  {
+    "type": "paragraph",
+    "index": 0,
+    "style": "Title",
+    "text": "测试报告"
+  },
+  {
+    "type": "paragraph",
+    "index": 1,
+    "style": "Heading 1",
+    "text": "TEST1: 模拟调用功能"
+  },
+  {
+    "type": "paragraph",
+    "index": 2,
+    "style": "Normal",
+    "text": "进入模拟调用页面，如图 1，选择用户、项目、模拟、调用模式并自定义费用后，写下自己的需求进行prompt"
+  },
+  {
+    "type": "paragraph",
+    "index": 4,
+    "style": "Caption",
+    "text": "图 1 模拟调用prompt"
+  },
+  {
+    "type": "paragraph",
+    "index": 5,
+    "style": "Normal",
+    "text": "点击模拟调用，显示成功调用并得到调用结果，会显示所使用的模型、耗费的token和费用以及余额情况，如图 2所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 7,
+    "style": "Caption",
+    "text": "图 2 模拟调用情况"
+  },
+  {
+    "type": "paragraph",
+    "index": 8,
+    "style": "Heading 1",
+    "text": "TEST2:成本明细"
+  },
+  {
+    "type": "paragraph",
+    "index": 9,
+    "style": "Normal",
+    "text": "进入成本明细页面，可看到每次调用AI的调用与扣费明细，包括使用的时间、项目、用户、模型、Token、费用、余额情况以及延迟和状态，如图 3所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 11,
+    "style": "Caption",
+    "text": "图 3 成本明细页面"
+  },
+  {
+    "type": "paragraph",
+    "index": 12,
+    "style": "Normal",
+    "text": "同时该页面还支持通过查找具体的项目、模型和状态来进行调用与扣费明细和检索字段、关键词来检索筛选，如图 4所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 14,
+    "style": "Caption",
+    "text": "图 4 成本明细的具体筛选"
+  },
+  {
+    "type": "paragraph",
+    "index": 15,
+    "style": "Heading 1",
+    "text": "TEST3:月度分析"
+  },
+  {
+    "type": "paragraph",
+    "index": 16,
+    "style": "Normal",
+    "text": "进入月度分析页面，可直观得看到每月份的费用、调用次数、成功调用次数、Token总量和成功率，同时还有直观的环形图展示项目费用的占比和模型费用的结构；柱形图显示该月的费用趋势，同时还会显示项目的月度排行，分别展示每个项目的调用次数与Token，如图 5所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 18,
+    "style": "Caption",
+    "text": "图 5 月度分析页面"
+  },
+  {
+    "type": "paragraph",
+    "index": 19,
+    "style": "Normal",
+    "text": "同时在月度分析页面，还可以具体筛选，即可通过具体的月份和项目来显示该月某项目的分析，如图 6所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 21,
+    "style": "Caption",
+    "text": "图 6 具体月份和项目的月度分析"
+  },
+  {
+    "type": "paragraph",
+    "index": 22,
+    "style": "Heading 1",
+    "text": "TEST4:项目预算"
+  },
+  {
+    "type": "paragraph",
+    "index": 23,
+    "style": "Normal",
+    "text": "进入项目预算界面，可显示具体的项目预算账户，汇总了账户余额、本月预算、预算使用率、告警数量和风险提示，如图 7所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 25,
+    "style": "Caption",
+    "text": "图 7 项目预算界面"
+  },
+  {
+    "type": "paragraph",
+    "index": 27,
+    "style": "Normal",
+    "text": "还可以进行具体的预算告警，点击右上方查看预算告警即可看到告警列表，图 8所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 29,
+    "style": "Caption",
+    "text": "图 8 预算告警界面"
+  },
+  {
+    "type": "paragraph",
+    "index": 30,
+    "style": "Heading 1",
+    "text": "TEST5:模型与价格"
+  },
+  {
+    "type": "paragraph",
+    "index": 31,
+    "style": "Normal",
+    "text": "进入该页面，可直观看到当前可用的模型以及模型的调用次数、Token、费用等具体数据，如图 9所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 33,
+    "style": "Caption",
+    "text": "图 9 模型与价格页面"
+  },
+  {
+    "type": "paragraph",
+    "index": 34,
+    "style": "Heading 1",
+    "text": "TEST6:额度审批"
+  },
+  {
+    "type": "paragraph",
+    "index": 35,
+    "style": "Normal",
+    "text": "进入该页面，可看到每个项目的余额以及预算，还可看到具体项目的申请列表，如图 10所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 37,
+    "style": "Caption",
+    "text": "图 10 额度审批界面"
+  },
+  {
+    "type": "paragraph",
+    "index": 38,
+    "style": "Normal",
+    "text": "还可以具体申请额度和进行预算审批，选择项目、申请人和调整金额后，说明申请原因即可进行申请，同时在右方的申请列表进行通过或驳回，若通过，可看到项目的余额和预算都会进行改变，如图 11图 12图 13所示"
+  },
+  {
+    "type": "paragraph",
+    "index": 40,
+    "style": "Caption",
+    "text": "图 11 项目申请"
+  },
+  {
+    "type": "paragraph",
+    "index": 42,
+    "style": "Caption",
+    "text": "图 12 项目审批"
+  },
+  {
+    "type": "paragraph",
+    "index": 44,
+    "style": "Caption",
+    "text": "图 13 通过后余额和预算变化"
+  },
+  {
+    "type": "image",
+    "index": 1,
+    "path": "docs/imported_test_report/images/image_01.png",
+    "source": "word/media/image1.png"
+  },
+  {
+    "type": "image",
+    "index": 2,
+    "path": "docs/imported_test_report/images/image_02.png",
+    "source": "word/media/image2.png"
+  },
+  {
+    "type": "image",
+    "index": 3,
+    "path": "docs/imported_test_report/images/image_03.png",
+    "source": "word/media/image3.png"
+  },
+  {
+    "type": "image",
+    "index": 4,
+    "path": "docs/imported_test_report/images/image_04.png",
+    "source": "word/media/image4.png"
+  },
+  {
+    "type": "image",
+    "index": 5,
+    "path": "docs/imported_test_report/images/image_05.png",
+    "source": "word/media/image5.png"
+  },
+  {
+    "type": "image",
+    "index": 6,
+    "path": "docs/imported_test_report/images/image_06.png",
+    "source": "word/media/image6.png"
+  },
+  {
+    "type": "image",
+    "index": 7,
+    "path": "docs/imported_test_report/images/image_07.png",
+    "source": "word/media/image7.png"
+  },
+  {
+    "type": "image",
+    "index": 8,
+    "path": "docs/imported_test_report/images/image_08.png",
+    "source": "word/media/image8.png"
+  },
+  {
+    "type": "image",
+    "index": 9,
+    "path": "docs/imported_test_report/images/image_09.png",
+    "source": "word/media/image9.png"
+  },
+  {
+    "type": "image",
+    "index": 10,
+    "path": "docs/imported_test_report/images/image_10.png",
+    "source": "word/media/image10.png"
+  },
+  {
+    "type": "image",
+    "index": 11,
+    "path": "docs/imported_test_report/images/image_11.png",
+    "source": "word/media/image11.png"
+  },
+  {
+    "type": "image",
+    "index": 12,
+    "path": "docs/imported_test_report/images/image_12.png",
+    "source": "word/media/image12.png"
+  },
+  {
+    "type": "image",
+    "index": 13,
+    "path": "docs/imported_test_report/images/image_13.png",
+    "source": "word/media/image13.png"
+  }
+]

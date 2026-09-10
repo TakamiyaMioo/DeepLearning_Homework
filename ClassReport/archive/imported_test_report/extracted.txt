@@ -1,0 +1,44 @@
+[P 0 Title] 测试报告
+[P 1 Heading 1] TEST1: 模拟调用功能
+[P 2 Normal] 进入模拟调用页面，如图 1，选择用户、项目、模拟、调用模式并自定义费用后，写下自己的需求进行prompt
+[P 4 Caption] 图 1 模拟调用prompt
+[P 5 Normal] 点击模拟调用，显示成功调用并得到调用结果，会显示所使用的模型、耗费的token和费用以及余额情况，如图 2所示
+[P 7 Caption] 图 2 模拟调用情况
+[P 8 Heading 1] TEST2:成本明细
+[P 9 Normal] 进入成本明细页面，可看到每次调用AI的调用与扣费明细，包括使用的时间、项目、用户、模型、Token、费用、余额情况以及延迟和状态，如图 3所示
+[P 11 Caption] 图 3 成本明细页面
+[P 12 Normal] 同时该页面还支持通过查找具体的项目、模型和状态来进行调用与扣费明细和检索字段、关键词来检索筛选，如图 4所示
+[P 14 Caption] 图 4 成本明细的具体筛选
+[P 15 Heading 1] TEST3:月度分析
+[P 16 Normal] 进入月度分析页面，可直观得看到每月份的费用、调用次数、成功调用次数、Token总量和成功率，同时还有直观的环形图展示项目费用的占比和模型费用的结构；柱形图显示该月的费用趋势，同时还会显示项目的月度排行，分别展示每个项目的调用次数与Token，如图 5所示
+[P 18 Caption] 图 5 月度分析页面
+[P 19 Normal] 同时在月度分析页面，还可以具体筛选，即可通过具体的月份和项目来显示该月某项目的分析，如图 6所示
+[P 21 Caption] 图 6 具体月份和项目的月度分析
+[P 22 Heading 1] TEST4:项目预算
+[P 23 Normal] 进入项目预算界面，可显示具体的项目预算账户，汇总了账户余额、本月预算、预算使用率、告警数量和风险提示，如图 7所示
+[P 25 Caption] 图 7 项目预算界面
+[P 27 Normal] 还可以进行具体的预算告警，点击右上方查看预算告警即可看到告警列表，图 8所示
+[P 29 Caption] 图 8 预算告警界面
+[P 30 Heading 1] TEST5:模型与价格
+[P 31 Normal] 进入该页面，可直观看到当前可用的模型以及模型的调用次数、Token、费用等具体数据，如图 9所示
+[P 33 Caption] 图 9 模型与价格页面
+[P 34 Heading 1] TEST6:额度审批
+[P 35 Normal] 进入该页面，可看到每个项目的余额以及预算，还可看到具体项目的申请列表，如图 10所示
+[P 37 Caption] 图 10 额度审批界面
+[P 38 Normal] 还可以具体申请额度和进行预算审批，选择项目、申请人和调整金额后，说明申请原因即可进行申请，同时在右方的申请列表进行通过或驳回，若通过，可看到项目的余额和预算都会进行改变，如图 11图 12图 13所示
+[P 40 Caption] 图 11 项目申请
+[P 42 Caption] 图 12 项目审批
+[P 44 Caption] 图 13 通过后余额和预算变化
+[IMAGE 1] docs/imported_test_report/images/image_01.png
+[IMAGE 2] docs/imported_test_report/images/image_02.png
+[IMAGE 3] docs/imported_test_report/images/image_03.png
+[IMAGE 4] docs/imported_test_report/images/image_04.png
+[IMAGE 5] docs/imported_test_report/images/image_05.png
+[IMAGE 6] docs/imported_test_report/images/image_06.png
+[IMAGE 7] docs/imported_test_report/images/image_07.png
+[IMAGE 8] docs/imported_test_report/images/image_08.png
+[IMAGE 9] docs/imported_test_report/images/image_09.png
+[IMAGE 10] docs/imported_test_report/images/image_10.png
+[IMAGE 11] docs/imported_test_report/images/image_11.png
+[IMAGE 12] docs/imported_test_report/images/image_12.png
+[IMAGE 13] docs/imported_test_report/images/image_13.png
