@@ -1,0 +1,8 @@
+# Shared generated files
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/build/
+**/data/
+**/outputs/
+**/checkpoints/

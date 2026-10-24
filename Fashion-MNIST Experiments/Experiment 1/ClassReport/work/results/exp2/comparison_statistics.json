@@ -1,0 +1,130 @@
+[
+  {
+    "condition": "original",
+    "model": "cnn",
+    "metric": "parameters",
+    "mean": 421642.0,
+    "std": 0.0,
+    "n_seeds": 3
+  },
+  {
+    "condition": "original",
+    "model": "cnn",
+    "metric": "test_accuracy",
+    "mean": 0.9188666666666666,
+    "std": 0.003442867022313406,
+    "n_seeds": 3
+  },
+  {
+    "condition": "original",
+    "model": "cnn",
+    "metric": "macro_recall",
+    "mean": 0.9188666666666667,
+    "std": 0.0034428670223135885,
+    "n_seeds": 3
+  },
+  {
+    "condition": "original",
+    "model": "cnn",
+    "metric": "seconds",
+    "mean": 132.3375007311503,
+    "std": 0.46290004267067714,
+    "n_seeds": 3
+  },
+  {
+    "condition": "original",
+    "model": "mlp",
+    "metric": "parameters",
+    "mean": 101770.0,
+    "std": 0.0,
+    "n_seeds": 3
+  },
+  {
+    "condition": "original",
+    "model": "mlp",
+    "metric": "test_accuracy",
+    "mean": 0.8840333333333333,
+    "std": 0.0012055427546683194,
+    "n_seeds": 3
+  },
+  {
+    "condition": "original",
+    "model": "mlp",
+    "metric": "macro_recall",
+    "mean": 0.8840333333333332,
+    "std": 0.0012055427546683777,
+    "n_seeds": 3
+  },
+  {
+    "condition": "original",
+    "model": "mlp",
+    "metric": "seconds",
+    "mean": 130.373171488444,
+    "std": 1.0407465280217263,
+    "n_seeds": 3
+  },
+  {
+    "condition": "permuted",
+    "model": "cnn",
+    "metric": "parameters",
+    "mean": 421642.0,
+    "std": 0.0,
+    "n_seeds": 3
+  },
+  {
+    "condition": "permuted",
+    "model": "cnn",
+    "metric": "test_accuracy",
+    "mean": 0.8787666666666667,
+    "std": 0.00225462487641142,
+    "n_seeds": 3
+  },
+  {
+    "condition": "permuted",
+    "model": "cnn",
+    "metric": "macro_recall",
+    "mean": 0.8787666666666666,
+    "std": 0.0022546248764115312,
+    "n_seeds": 3
+  },
+  {
+    "condition": "permuted",
+    "model": "cnn",
+    "metric": "seconds",
+    "mean": 152.41433358192444,
+    "std": 0.2165138512703924,
+    "n_seeds": 3
+  },
+  {
+    "condition": "permuted",
+    "model": "mlp",
+    "metric": "parameters",
+    "mean": 101770.0,
+    "std": 0.0,
+    "n_seeds": 3
+  },
+  {
+    "condition": "permuted",
+    "model": "mlp",
+    "metric": "test_accuracy",
+    "mean": 0.8859,
+    "std": 0.0009539392014169512,
+    "n_seeds": 3
+  },
+  {
+    "condition": "permuted",
+    "model": "mlp",
+    "metric": "macro_recall",
+    "mean": 0.8859,
+    "std": 0.0009539392014169454,
+    "n_seeds": 3
+  },
+  {
+    "condition": "permuted",
+    "model": "mlp",
+    "metric": "seconds",
+    "mean": 151.88261906305948,
+    "std": 1.481112710016401,
+    "n_seeds": 3
+  }
+]

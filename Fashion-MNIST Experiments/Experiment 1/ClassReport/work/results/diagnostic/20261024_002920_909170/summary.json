@@ -1,0 +1,12 @@
+{
+  "model_name": "relu_mlp",
+  "seed": 42,
+  "parameter_count": 101770,
+  "best_epoch": 17,
+  "best_val_accuracy": 0.8899,
+  "best_val_loss": 0.3079385650753975,
+  "total_train_time_seconds": 87.9937275275588,
+  "device": "cuda",
+  "run_id": "20261024_002920_909170",
+  "checkpoint": "checkpoints/relu_mlp/20261024_002920_909170.pt"
+}

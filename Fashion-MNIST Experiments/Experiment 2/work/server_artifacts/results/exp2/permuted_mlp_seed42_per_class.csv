@@ -1,0 +1,11 @@
+class,recall
+T-shirt/top,0.826
+Trouser,0.976
+Pullover,0.794
+Dress,0.897
+Coat,0.811
+Sandal,0.941
+Shirt,0.725
+Sneaker,0.961
+Bag,0.969
+Ankle boot,0.96

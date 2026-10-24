@@ -1,0 +1,5 @@
+condition,model,seed,epochs,best_epoch,parameters,test_loss,test_accuracy,macro_recall,seconds,device,checkpoint
+original,mlp,123,30,28,101770,0.34573877115249635,0.8839,0.8838999999999999,129.19096207618713,cuda,checkpoints/exp2/original_mlp_seed123.pt
+original,cnn,123,30,15,421642,0.2694422561645508,0.9174,0.9174000000000001,132.2290632724762,cuda,checkpoints/exp2/original_cnn_seed123.pt
+permuted,mlp,123,30,25,101770,0.3433858310699463,0.8849,0.8849,151.0042862892151,cuda,checkpoints/exp2/permuted_mlp_seed123.pt
+permuted,cnn,123,30,16,421642,0.42798216654360294,0.8786,0.8785999999999999,152.63298535346985,cuda,checkpoints/exp2/permuted_cnn_seed123.pt

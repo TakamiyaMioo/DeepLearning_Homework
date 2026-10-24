@@ -1,8 +1,8 @@
-__pycache__/
-*.py[cod]
-.venv/
-data/
-outputs/
-checkpoints/
-ClassReport/build/
-.DS_Store
+# Shared generated files
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/build/
+**/data/
+**/outputs/
+**/checkpoints/

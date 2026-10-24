@@ -1,0 +1,11 @@
+true\pred,T-shirt/top,Trouser,Pullover,Dress,Coat,Sandal,Shirt,Sneaker,Bag,Ankle boot
+T-shirt/top,811,1,24,28,7,0,114,0,15,0
+Trouser,3,951,9,27,6,0,2,0,2,0
+Pullover,14,3,738,6,154,0,76,0,9,0
+Dress,44,11,26,821,40,0,49,0,9,0
+Coat,0,1,104,18,794,0,73,0,10,0
+Sandal,0,0,0,1,0,914,0,51,4,30
+Shirt,129,2,137,21,119,0,574,0,18,0
+Sneaker,0,0,0,0,0,31,0,936,0,33
+Bag,4,1,7,6,3,4,20,5,949,1
+Ankle boot,0,1,0,0,0,9,1,38,0,951

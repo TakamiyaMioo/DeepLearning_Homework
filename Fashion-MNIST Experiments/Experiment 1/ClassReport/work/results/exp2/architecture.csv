@@ -1,0 +1,11 @@
+model,layer,output_shape_per_sample,parameters
+MLP,flatten,784,0
+MLP,"Linear(784,128)+ReLU",128,100480
+MLP,"Linear(128,10)",10,1290
+CNN,"Conv(1,32,k3,p1)+ReLU",32x28x28,320
+CNN,MaxPool(2),32x14x14,0
+CNN,"Conv(32,64,k3,p1)+ReLU",64x14x14,18496
+CNN,MaxPool(2),64x7x7,0
+CNN,Flatten,3136,0
+CNN,"Linear(3136,128)+ReLU",128,401536
+CNN,"Linear(128,10)",10,1290

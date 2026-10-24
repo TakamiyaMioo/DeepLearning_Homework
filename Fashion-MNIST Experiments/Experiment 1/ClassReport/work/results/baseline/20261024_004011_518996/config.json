@@ -1,0 +1,24 @@
+{
+  "seed": 2026,
+  "split_seed": 42,
+  "dataset": {
+    "name": "FashionMNIST",
+    "train_size": 50000,
+    "val_size": 10000,
+    "num_classes": 10,
+    "root": "data"
+  },
+  "model": {
+    "hidden_dim": 128
+  },
+  "training": {
+    "epochs": 30,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "optimizer": "Adam",
+    "weight_decay": 0.0,
+    "num_workers": 2
+  },
+  "device": "auto",
+  "deterministic": true
+}

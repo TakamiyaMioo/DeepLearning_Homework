@@ -1,0 +1,452 @@
+[
+  {
+    "count": 153,
+    "true": "T-shirt/top",
+    "pred": "Shirt"
+  },
+  {
+    "count": 116,
+    "true": "Coat",
+    "pred": "Pullover"
+  },
+  {
+    "count": 93,
+    "true": "Coat",
+    "pred": "Shirt"
+  },
+  {
+    "count": 92,
+    "true": "Pullover",
+    "pred": "Shirt"
+  },
+  {
+    "count": 81,
+    "true": "Shirt",
+    "pred": "Pullover"
+  },
+  {
+    "count": 75,
+    "true": "Shirt",
+    "pred": "T-shirt/top"
+  },
+  {
+    "count": 57,
+    "true": "Pullover",
+    "pred": "Coat"
+  },
+  {
+    "count": 48,
+    "true": "Shirt",
+    "pred": "Coat"
+  },
+  {
+    "count": 32,
+    "true": "Dress",
+    "pred": "Shirt"
+  },
+  {
+    "count": 32,
+    "true": "Dress",
+    "pred": "Coat"
+  },
+  {
+    "count": 30,
+    "true": "Ankle boot",
+    "pred": "Sneaker"
+  },
+  {
+    "count": 27,
+    "true": "Coat",
+    "pred": "Dress"
+  },
+  {
+    "count": 26,
+    "true": "Sneaker",
+    "pred": "Ankle boot"
+  },
+  {
+    "count": 24,
+    "true": "Shirt",
+    "pred": "Dress"
+  },
+  {
+    "count": 24,
+    "true": "T-shirt/top",
+    "pred": "Pullover"
+  },
+  {
+    "count": 22,
+    "true": "Sandal",
+    "pred": "Ankle boot"
+  },
+  {
+    "count": 21,
+    "true": "Dress",
+    "pred": "Pullover"
+  },
+  {
+    "count": 19,
+    "true": "Sandal",
+    "pred": "Sneaker"
+  },
+  {
+    "count": 18,
+    "true": "Sneaker",
+    "pred": "Sandal"
+  },
+  {
+    "count": 18,
+    "true": "T-shirt/top",
+    "pred": "Dress"
+  },
+  {
+    "count": 15,
+    "true": "Dress",
+    "pred": "T-shirt/top"
+  },
+  {
+    "count": 13,
+    "true": "Trouser",
+    "pred": "Dress"
+  },
+  {
+    "count": 11,
+    "true": "Bag",
+    "pred": "Shirt"
+  },
+  {
+    "count": 10,
+    "true": "Pullover",
+    "pred": "T-shirt/top"
+  },
+  {
+    "count": 9,
+    "true": "Pullover",
+    "pred": "Dress"
+  },
+  {
+    "count": 9,
+    "true": "T-shirt/top",
+    "pred": "Bag"
+  },
+  {
+    "count": 6,
+    "true": "Ankle boot",
+    "pred": "Sandal"
+  },
+  {
+    "count": 6,
+    "true": "Bag",
+    "pred": "Pullover"
+  },
+  {
+    "count": 6,
+    "true": "Dress",
+    "pred": "Trouser"
+  },
+  {
+    "count": 5,
+    "true": "Bag",
+    "pred": "Dress"
+  },
+  {
+    "count": 5,
+    "true": "Shirt",
+    "pred": "Bag"
+  },
+  {
+    "count": 5,
+    "true": "T-shirt/top",
+    "pred": "Coat"
+  },
+  {
+    "count": 4,
+    "true": "Bag",
+    "pred": "Sneaker"
+  },
+  {
+    "count": 4,
+    "true": "Bag",
+    "pred": "Sandal"
+  },
+  {
+    "count": 4,
+    "true": "Dress",
+    "pred": "Bag"
+  },
+  {
+    "count": 4,
+    "true": "Trouser",
+    "pred": "Shirt"
+  },
+  {
+    "count": 3,
+    "true": "Bag",
+    "pred": "T-shirt/top"
+  },
+  {
+    "count": 3,
+    "true": "Trouser",
+    "pred": "Coat"
+  },
+  {
+    "count": 2,
+    "true": "Shirt",
+    "pred": "Trouser"
+  },
+  {
+    "count": 2,
+    "true": "Coat",
+    "pred": "Bag"
+  },
+  {
+    "count": 2,
+    "true": "Trouser",
+    "pred": "Pullover"
+  },
+  {
+    "count": 2,
+    "true": "Trouser",
+    "pred": "T-shirt/top"
+  },
+  {
+    "count": 1,
+    "true": "Ankle boot",
+    "pred": "Shirt"
+  },
+  {
+    "count": 1,
+    "true": "Bag",
+    "pred": "Coat"
+  },
+  {
+    "count": 1,
+    "true": "Sandal",
+    "pred": "Bag"
+  },
+  {
+    "count": 1,
+    "true": "Sandal",
+    "pred": "Dress"
+  },
+  {
+    "count": 1,
+    "true": "Coat",
+    "pred": "Trouser"
+  },
+  {
+    "count": 1,
+    "true": "Pullover",
+    "pred": "Sandal"
+  },
+  {
+    "count": 1,
+    "true": "Trouser",
+    "pred": "Bag"
+  },
+  {
+    "count": 1,
+    "true": "T-shirt/top",
+    "pred": "Sandal"
+  },
+  {
+    "count": 1,
+    "true": "T-shirt/top",
+    "pred": "Trouser"
+  },
+  {
+    "count": 0,
+    "true": "Ankle boot",
+    "pred": "Bag"
+  },
+  {
+    "count": 0,
+    "true": "Ankle boot",
+    "pred": "Coat"
+  },
+  {
+    "count": 0,
+    "true": "Ankle boot",
+    "pred": "Dress"
+  },
+  {
+    "count": 0,
+    "true": "Ankle boot",
+    "pred": "Pullover"
+  },
+  {
+    "count": 0,
+    "true": "Ankle boot",
+    "pred": "Trouser"
+  },
+  {
+    "count": 0,
+    "true": "Ankle boot",
+    "pred": "T-shirt/top"
+  },
+  {
+    "count": 0,
+    "true": "Bag",
+    "pred": "Ankle boot"
+  },
+  {
+    "count": 0,
+    "true": "Bag",
+    "pred": "Trouser"
+  },
+  {
+    "count": 0,
+    "true": "Sneaker",
+    "pred": "Bag"
+  },
+  {
+    "count": 0,
+    "true": "Sneaker",
+    "pred": "Shirt"
+  },
+  {
+    "count": 0,
+    "true": "Sneaker",
+    "pred": "Coat"
+  },
+  {
+    "count": 0,
+    "true": "Sneaker",
+    "pred": "Dress"
+  },
+  {
+    "count": 0,
+    "true": "Sneaker",
+    "pred": "Pullover"
+  },
+  {
+    "count": 0,
+    "true": "Sneaker",
+    "pred": "Trouser"
+  },
+  {
+    "count": 0,
+    "true": "Sneaker",
+    "pred": "T-shirt/top"
+  },
+  {
+    "count": 0,
+    "true": "Shirt",
+    "pred": "Ankle boot"
+  },
+  {
+    "count": 0,
+    "true": "Shirt",
+    "pred": "Sneaker"
+  },
+  {
+    "count": 0,
+    "true": "Shirt",
+    "pred": "Sandal"
+  },
+  {
+    "count": 0,
+    "true": "Sandal",
+    "pred": "Shirt"
+  },
+  {
+    "count": 0,
+    "true": "Sandal",
+    "pred": "Coat"
+  },
+  {
+    "count": 0,
+    "true": "Sandal",
+    "pred": "Pullover"
+  },
+  {
+    "count": 0,
+    "true": "Sandal",
+    "pred": "Trouser"
+  },
+  {
+    "count": 0,
+    "true": "Sandal",
+    "pred": "T-shirt/top"
+  },
+  {
+    "count": 0,
+    "true": "Coat",
+    "pred": "Ankle boot"
+  },
+  {
+    "count": 0,
+    "true": "Coat",
+    "pred": "Sneaker"
+  },
+  {
+    "count": 0,
+    "true": "Coat",
+    "pred": "Sandal"
+  },
+  {
+    "count": 0,
+    "true": "Coat",
+    "pred": "T-shirt/top"
+  },
+  {
+    "count": 0,
+    "true": "Dress",
+    "pred": "Ankle boot"
+  },
+  {
+    "count": 0,
+    "true": "Dress",
+    "pred": "Sneaker"
+  },
+  {
+    "count": 0,
+    "true": "Dress",
+    "pred": "Sandal"
+  },
+  {
+    "count": 0,
+    "true": "Pullover",
+    "pred": "Ankle boot"
+  },
+  {
+    "count": 0,
+    "true": "Pullover",
+    "pred": "Bag"
+  },
+  {
+    "count": 0,
+    "true": "Pullover",
+    "pred": "Sneaker"
+  },
+  {
+    "count": 0,
+    "true": "Pullover",
+    "pred": "Trouser"
+  },
+  {
+    "count": 0,
+    "true": "Trouser",
+    "pred": "Ankle boot"
+  },
+  {
+    "count": 0,
+    "true": "Trouser",
+    "pred": "Sneaker"
+  },
+  {
+    "count": 0,
+    "true": "Trouser",
+    "pred": "Sandal"
+  },
+  {
+    "count": 0,
+    "true": "T-shirt/top",
+    "pred": "Ankle boot"
+  },
+  {
+    "count": 0,
+    "true": "T-shirt/top",
+    "pred": "Sneaker"
+  }
+]

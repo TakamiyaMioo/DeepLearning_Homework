@@ -1,0 +1,107 @@
+[
+  {
+    "model_name": "linear",
+    "metric": "parameter_count",
+    "mean": 7850.0,
+    "std": 0.0,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "linear",
+    "metric": "best_val_accuracy",
+    "mean": 0.8608666666666667,
+    "std": 0.0003055050463303557,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "linear",
+    "metric": "test_accuracy",
+    "mean": 0.8477666666666667,
+    "std": 0.000568624070307732,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "linear",
+    "metric": "macro_f1",
+    "mean": 0.8469240244067798,
+    "std": 0.00061061636331327,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "linear",
+    "metric": "total_train_time_seconds",
+    "mean": 123.18565522134304,
+    "std": 2.127018027377479,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "two_layer_linear",
+    "metric": "parameter_count",
+    "mean": 101770.0,
+    "std": 0.0,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "two_layer_linear",
+    "metric": "best_val_accuracy",
+    "mean": 0.8561,
+    "std": 0.0007937253933193527,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "two_layer_linear",
+    "metric": "test_accuracy",
+    "mean": 0.8444666666666667,
+    "std": 0.0005131601439446932,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "two_layer_linear",
+    "metric": "macro_f1",
+    "mean": 0.8443872072275002,
+    "std": 0.0005485011998868325,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "two_layer_linear",
+    "metric": "total_train_time_seconds",
+    "mean": 124.80983971307676,
+    "std": 3.69804122059717,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "relu_mlp",
+    "metric": "parameter_count",
+    "mean": 101770.0,
+    "std": 0.0,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "relu_mlp",
+    "metric": "best_val_accuracy",
+    "mean": 0.8915666666666666,
+    "std": 0.000862167810425136,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "relu_mlp",
+    "metric": "test_accuracy",
+    "mean": 0.8840333333333333,
+    "std": 0.0012055427546683194,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "relu_mlp",
+    "metric": "macro_f1",
+    "mean": 0.8845676334092653,
+    "std": 0.0018002517856358312,
+    "n_seeds": 3
+  },
+  {
+    "model_name": "relu_mlp",
+    "metric": "total_train_time_seconds",
+    "mean": 122.46053578456242,
+    "std": 0.9096296723980775,
+    "n_seeds": 3
+  }
+]

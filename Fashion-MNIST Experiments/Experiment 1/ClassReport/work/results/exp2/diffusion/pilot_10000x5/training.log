@@ -1,0 +1,6 @@
+DIFF_TRAIN {'epoch': 1, 'noise_mse': 0.683851601600647, 'epoch_seconds': 1.3371961116790771}
+DIFF_TRAIN {'epoch': 2, 'noise_mse': 0.40864416851997376, 'epoch_seconds': 1.2374546527862549}
+DIFF_TRAIN {'epoch': 3, 'noise_mse': 0.34256177740097044, 'epoch_seconds': 1.2529017925262451}
+DIFF_TRAIN {'epoch': 4, 'noise_mse': 0.30644160654544833, 'epoch_seconds': 1.2204093933105469}
+DIFF_TRAIN {'epoch': 5, 'noise_mse': 0.28233518829345705, 'epoch_seconds': 1.2367305755615234}
+DIFFUSION_DONE {'train_samples': 10000, 'channels': 32, 'diffusion_steps': 100, 'epochs': 5, 'device': 'cuda', 'train_seconds': 6.290201663970947, 'sampling_samples': 64, 'sampling_seconds': 0.15843963623046875, 'seconds_per_sample': 0.0024756193161010742, 'train_seed': 42, 'sampling_seed': 20261024, 'trajectory_noise_seed': 314159, 'parameter_count': 148673}

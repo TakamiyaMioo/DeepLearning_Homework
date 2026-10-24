@@ -1,0 +1,58 @@
+[
+  {
+    "condition": "original",
+    "model": "mlp",
+    "seed": 2026,
+    "epochs": 30,
+    "best_epoch": 24,
+    "parameters": 101770,
+    "test_loss": 0.3427303776025772,
+    "test_accuracy": 0.8829,
+    "macro_recall": 0.8828999999999999,
+    "seconds": 130.7773563861847,
+    "device": "cuda",
+    "checkpoint": "checkpoints/exp2/original_mlp_seed2026.pt"
+  },
+  {
+    "condition": "original",
+    "model": "cnn",
+    "seed": 2026,
+    "epochs": 30,
+    "best_epoch": 19,
+    "parameters": 421642,
+    "test_loss": 0.3092316787242889,
+    "test_accuracy": 0.9228,
+    "macro_recall": 0.9228000000000002,
+    "seconds": 131.93844532966614,
+    "device": "cuda",
+    "checkpoint": "checkpoints/exp2/original_cnn_seed2026.pt"
+  },
+  {
+    "condition": "permuted",
+    "model": "mlp",
+    "seed": 2026,
+    "epochs": 30,
+    "best_epoch": 25,
+    "parameters": 101770,
+    "test_loss": 0.3353555051922798,
+    "test_accuracy": 0.8868,
+    "macro_recall": 0.8868,
+    "seconds": 151.05092215538025,
+    "device": "cuda",
+    "checkpoint": "checkpoints/exp2/permuted_mlp_seed2026.pt"
+  },
+  {
+    "condition": "permuted",
+    "model": "cnn",
+    "seed": 2026,
+    "epochs": 30,
+    "best_epoch": 11,
+    "parameters": 421642,
+    "test_loss": 0.3351680864334106,
+    "test_accuracy": 0.8811,
+    "macro_recall": 0.8811,
+    "seconds": 152.40999245643616,
+    "device": "cuda",
+    "checkpoint": "checkpoints/exp2/permuted_cnn_seed2026.pt"
+  }
+]

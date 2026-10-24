@@ -1,0 +1,30 @@
+[
+  {
+    "parameter": "W1",
+    "maximum_absolute_error": 1.8214804664573592e-11,
+    "relative_error": 4.615899828593733e-10,
+    "checked_elements": 20,
+    "passed": true
+  },
+  {
+    "parameter": "b1",
+    "maximum_absolute_error": 6.511012215493217e-12,
+    "relative_error": 2.348990843504539e-10,
+    "checked_elements": 5,
+    "passed": true
+  },
+  {
+    "parameter": "W2",
+    "maximum_absolute_error": 1.3388040676076685e-11,
+    "relative_error": 2.0803907745372345e-10,
+    "checked_elements": 15,
+    "passed": true
+  },
+  {
+    "parameter": "b2",
+    "maximum_absolute_error": 7.581504868348077e-12,
+    "relative_error": 2.053308110975769e-11,
+    "checked_elements": 3,
+    "passed": true
+  }
+]
