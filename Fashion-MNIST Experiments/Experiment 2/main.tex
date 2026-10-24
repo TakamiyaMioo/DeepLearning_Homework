@@ -36,10 +36,6 @@
   {\fontsize{21pt}{30pt}\selectfont\bfseries 实验二：Fashion-MNIST\par}
   {\fontsize{18pt}{28pt}\selectfont\bfseries 卷积分类、结构先验与扩散生成\par}
 \end{center}
-\vspace{0.25cm}
-\begin{center}
-{\small \textbf{GitHub 代码地址：}\url{https://github.com/TakamiyaMioo/DeepLearning_Homework/tree/main/Fashion-MNIST%20Experiments}}
-\end{center}
 \vspace{1.1cm}
 \begin{center}
 \renewcommand\arraystretch{1.75}
@@ -62,6 +58,8 @@
 \tableofcontents
 \endgroup
 \clearpage
+
+\noindent\textbf{代码与复现材料：}\href{https://github.com/TakamiyaMioo/DeepLearning_Homework/tree/main/Fashion-MNIST%20Experiments}{GitHub 仓库：Fashion-MNIST Experiments}\par
 
 \section{实验任务与模型设置}
 Fashion-MNIST 含 28$\times$28 灰度服饰图像和 10 个类别\cite{fashionmnist}。本实验沿用实验 1 的官方训练集固定划分（50,000 训练、10,000 验证；split seed 42），官方测试集仅用于选定验证集检查点后的最终评价。分类模型均使用 $[0,1]$ 输入、不做随机增强；训练 30 epoch、batch size 128、Adam 学习率 $10^{-3}$、weight decay 0，训练种子为 42、123、2026。每个实验条件报告三种子测试准确率均值与样本标准差。
